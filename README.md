@@ -114,4 +114,4 @@ SystemVerilog · UVM · SVA · AMD Vivado · Vitis Unified IDE · PYNQ-Z2 (Zynq-
 ## Authors
 
 Eitan Marock & Rebecca Pinto
-Supervisor: Prof. Yoel Ratzabi, Ariel University
+Supervisor: Prof. Joel Ratzabi, Ariel University
